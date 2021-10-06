@@ -7,7 +7,7 @@ Esta atividade acadêmica faz parte do curso de [Design de Produto](https://www.
 
 
 
-[Alt text](01.jpg "Optional title")
+![Alt text](https://github.com/ferkrum/protoEletro2021.2/blob/9fa044718e6e5e4f88b7bda1447ac6df685d45da/01.jpg "Optional title")
 
 
-https://github.com/ferkrum/protoEletro2021.2/blob/9fa044718e6e5e4f88b7bda1447ac6df685d45da/01.jpg
+
