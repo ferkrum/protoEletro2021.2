@@ -6,8 +6,7 @@ Esta atividade acadêmica faz parte do curso de [Design de Produto](https://www.
 
 
 
-
-![Alt text](/01.jpg "meu deus")
+![texto alternativo](/01.jpg "meu deus")
 
 
 
