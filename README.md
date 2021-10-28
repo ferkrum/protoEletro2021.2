@@ -17,6 +17,6 @@ Esta atividade acadêmica faz parte do curso de [Design de Produto](https://www.
 
 * Alexandre
 * Caroline
-* 
+* Luana Kiewel
 
 
