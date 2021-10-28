@@ -15,11 +15,13 @@ Esta atividade acadêmica faz parte do curso de [Design de Produto](https://www.
 * Alexandre Devit- Alimentador e controlador de aquário.
 * Victor Chamun - Tiny fan (Pequeno ventilador de mesa, 2 velocidades, gira 180°)
 * Caroline Adam - Sensor de batimentos cardíacos para cães (Um guia peitoral com o sensor de batimento junto. Esses elementos serão sustentado por um cabo de aço acoplado na bicicleta, durante o passeio vai monitorar os batimentosdo seu cão.)
+* Liv Miyoshi - Alarme para organização ao tomar remedios
 
 # Projetos do GB
 
 * Alexandre Devit- Alimentador com estoque e timer para ovelhas .
 * Caroline
 * Luana Kiewel
+* Liv Miyoshi - Cama com faixa de led acionada por sensor
 
 
