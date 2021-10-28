@@ -16,7 +16,7 @@ Esta atividade acadêmica faz parte do curso de [Design de Produto](https://www.
 # Projetos do GB
 
 * Alexandre
-* Caroline
+* Caroline Adam Correia
 * Luana Kiewel
 
 
