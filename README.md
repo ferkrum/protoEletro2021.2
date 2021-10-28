@@ -11,6 +11,9 @@ Esta atividade acadêmica faz parte do curso de [Design de Produto](https://www.
 
 
 # Projetos do GA
+* nome do aluno - nome do projeto (Uma descrição do projeto em uma linha.)
+
+
 
 
 # Projetos do GB
