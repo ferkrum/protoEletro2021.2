@@ -14,7 +14,7 @@ Esta atividade acadêmica faz parte do curso de [Design de Produto](https://www.
 * nome do aluno - nome do projeto (Uma descrição do projeto em uma linha.)
 * Alexandre Devit- Alimentador e controlador de aquário.
 * Victor Chamun - Tiny fan (Pequeno ventilador de mesa, 2 velocidades, gira 180°)
-
+* Caroline Adam - Sensor de batimentos cardíacos para cães (Um guia peitoral com o sensor de batimento junto. Esses elementos serão sustentado por um cabo de aço acoplado na bicicleta, durante o passeio vai monitorar os batimentosdo seu cão.)
 
 # Projetos do GB
 
