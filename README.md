@@ -12,7 +12,7 @@ Esta atividade acadêmica faz parte do curso de [Design de Produto](https://www.
 
 # Projetos do GA
 * nome do aluno - nome do projeto (Uma descrição do projeto em uma linha.)
-*Alexandre Devit- Alimentador e controlador de aquário.
+* Alexandre Devit- Alimentador e controlador de aquário.
 * Victor Chamun - Tiny fan (Pequeno ventilador de mesa, 2 velocidades, gira 180°)
 
 
