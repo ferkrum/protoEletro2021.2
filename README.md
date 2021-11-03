@@ -13,7 +13,7 @@ Esta atividade acadêmica faz parte do curso de [Design de Produto](https://www.
 # Projetos do GA
 1. Alexandre Devit- Alimentador e controlador de aquário.
 2. Beatriz Severo - Laser automático para gatos
-3. Caroline Adam - Monitor de batimentos cardíacos para cães (Um guia peitoral com o sensor de batimento).
+3. Caroline Adam - Monitor de batimentos cardíacos para cães (Uma guia peitoral com o sensor de batimento).
 4. Liv Miyoshi - Alarme para organização ao tomar remedios.
 5. Luana Kiewel-
 6. Victor Chamun - Tiny fan (Pequeno ventilador de mesa, 2 velocidades, gira 180°).
