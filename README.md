@@ -26,6 +26,6 @@ Esta atividade acadêmica faz parte do curso de [Design de Produto](https://www.
 * Victor Chamun - 
 
 
+<font size="1">dfasdf</font>
 
-
-<font size="1">_Para dicas de formatação Markdown, acessar esse [link](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open)._</font>
+_Para dicas de formatação Markdown, acessar esse [link](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open)._
