@@ -6,15 +6,14 @@ Esta atividade acadêmica faz parte do curso de [Design de Produto](https://www.
 
 
 
-![texto alternativo](/01.jpg "meu deus")
+![texto alternativo](/01.jpg "descrição")
 
 
 
 # Projetos do GA
-* nome do aluno - nome do projeto (Uma descrição do projeto em uma linha.)
 * Alexandre Devit- Alimentador e controlador de aquário.
-* Victor Chamun - Tiny fan (Pequeno ventilador de mesa, 2 velocidades, gira 180°.)
-* Caroline Adam - Munitor de batimentos cardíacos para cães (Um guia peitoral com o sensor de batimento na região do peito.)
+* Victor Chamun - Tiny fan (Pequeno ventilador de mesa, 2 velocidades, gira 180°).
+* Caroline Adam - Monitor de batimentos cardíacos para cães (Um guia peitoral com o sensor de batimento na região do peito).
 * Liv Miyoshi - Alarme para organização ao tomar remedios.
 * Luana Kiewel-
 
