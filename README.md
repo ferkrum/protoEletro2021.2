@@ -16,6 +16,7 @@ Esta atividade acadêmica faz parte do curso de [Design de Produto](https://www.
 3. Caroline Adam - Monitor de batimentos cardíacos para cães (Um guia peitoral com o sensor de batimento na região do peito).
 4. Liv Miyoshi - Alarme para organização ao tomar remedios.
 5. Luana Kiewel-
+6. Beatriz Severo - Laser automático para gatos
 
 # Projetos do GB
 
@@ -24,6 +25,7 @@ Esta atividade acadêmica faz parte do curso de [Design de Produto](https://www.
 * Luana Kiewel - 
 * Liv Miyoshi - Cama com faixa de led acionada por sensor.
 * Victor Chamun - 
+* Beatriz Severo - estou pensando em fazer o projeto que fiz no GA para mexer com servo motor
 
 <br><br><br>
 _Acompanhe o desenvolvimento dos projetos [aqui](https://github.com/ferkrum/protoEletro2021.2/wiki)._
