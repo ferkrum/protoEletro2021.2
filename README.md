@@ -11,11 +11,11 @@ Esta atividade acadêmica faz parte do curso de [Design de Produto](https://www.
 
 
 # Projetos do GA
-* Alexandre Devit- Alimentador e controlador de aquário.
-* Victor Chamun - Tiny fan (Pequeno ventilador de mesa, 2 velocidades, gira 180°).
-* Caroline Adam - Monitor de batimentos cardíacos para cães (Um guia peitoral com o sensor de batimento na região do peito).
-* Liv Miyoshi - Alarme para organização ao tomar remedios.
-* Luana Kiewel-
+1 Alexandre Devit- Alimentador e controlador de aquário.
+2 Victor Chamun - Tiny fan (Pequeno ventilador de mesa, 2 velocidades, gira 180°).
+3 Caroline Adam - Monitor de batimentos cardíacos para cães (Um guia peitoral com o sensor de batimento na região do peito).
+4 Liv Miyoshi - Alarme para organização ao tomar remedios.
+5 Luana Kiewel-
 
 # Projetos do GB
 
