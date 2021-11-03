@@ -25,6 +25,10 @@ Esta atividade acadêmica faz parte do curso de [Design de Produto](https://www.
 * Liv Miyoshi - Cama com faixa de led acionada por sensor.
 * Victor Chamun - 
 
+<br><br><br>
+_Acompanhe o desenvolvimento dos projetos [aqui](https://github.com/ferkrum/protoEletro2021.2/wiki)._
+
+
 
 
 
