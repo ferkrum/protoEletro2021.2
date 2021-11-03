@@ -12,20 +12,23 @@ Esta atividade acadêmica faz parte do curso de [Design de Produto](https://www.
 
 # Projetos do GA
 1. Alexandre Devit- Alimentador e controlador de aquário.
-2. Victor Chamun - Tiny fan (Pequeno ventilador de mesa, 2 velocidades, gira 180°).
+2. Beatriz Severo - Laser automático para gatos
 3. Caroline Adam - Monitor de batimentos cardíacos para cães (Um guia peitoral com o sensor de batimento na região do peito).
 4. Liv Miyoshi - Alarme para organização ao tomar remedios.
 5. Luana Kiewel-
-6. Beatriz Severo - Laser automático para gatos
+6. Victor Chamun - Tiny fan (Pequeno ventilador de mesa, 2 velocidades, gira 180°).
+
+
 
 # Projetos do GB
 
-* Alexandre Devit- Alimentador com estoque e timer para ovelhas.
-* Caroline Adam - Lixeira automática(sensor ultrassônico +  sevo motor.)
-* Luana Kiewel - 
-* Liv Miyoshi - Cama com faixa de led acionada por sensor.
-* Victor Chamun - 
-* Beatriz Severo - estou pensando em fazer o projeto que fiz no GA para mexer com servo motor
+1. Alexandre Devit- Alimentador com estoque e timer para ovelhas.
+2. Beatriz Severo - estou pensando em fazer o projeto que fiz no GA para mexer com servo motor
+3. Caroline Adam - Lixeira automática(sensor ultrassônico +  sevo motor.)
+4. Liv Miyoshi - Cama com faixa de led acionada por sensor.
+5. Luana Kiewel - 
+6. Victor Chamun - 
+
 
 <br><br><br>
 _Acompanhe o desenvolvimento dos projetos [aqui](https://github.com/ferkrum/protoEletro2021.2/wiki)._
