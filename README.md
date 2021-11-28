@@ -25,7 +25,7 @@ Esta atividade acadêmica faz parte do curso de [Design de Produto](https://www.
 1. Alexandre Devit- Alimentador com estoque e timer para ovelhas.
 2. Beatriz Severo - descarte automático de sujeiras da caixa de área de gatos.
 3. Caroline Adam - Lixeira automática(sensor ultrassônico +  sevo motor.)
-4. Liv Miyoshi - Cama com faixa de led acionada por sensor.
+4. Liv Miyoshi - Tapete faixa de led acionada por sensor.
 5. Luana Kiewel - 
 6. Victor Chamun - Luz de aquário com sensor.
 
