@@ -10,6 +10,7 @@ Esta atividade acadêmica faz parte do curso de [Design de Produto](https://www.
 
 
 
+
 # Projetos do GA
 1. Alexandre Devit- Alimentador e controlador de aquário.
 2. Beatriz Severo - Laser automático para gatos
@@ -20,7 +21,7 @@ Esta atividade acadêmica faz parte do curso de [Design de Produto](https://www.
 
 
 
-# Projetos do GB
+# [Projetos do GB](https://github.com/ferkrum/protoEletro2021.2/wiki#projetos-finais)
 
 1. Alexandre Devit- Alimentador com estoque e timer para ovelhas.
 2. Beatriz Severo - descarte automático de sujeiras da caixa de área de gatos.
