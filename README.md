@@ -6,7 +6,7 @@ Esta atividade acadêmica faz parte do curso de [Design de Produto](https://www.
 
 
 
-![texto alternativo](/protoeletroGithub.png "descrição")
+![apresentacao](/imagens/cartaz-github-protoeletro2021.1.png "descrição")
 
 
 
