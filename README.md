@@ -23,20 +23,15 @@ Esta atividade acadêmica faz parte do curso de [Design de Produto](https://www.
 
 # [Projetos do GB](https://github.com/ferkrum/protoEletro2021.2/wiki#projetos-finais)
 
-1. Alexandre Devit- Alimentador com estoque e timer para ovelhas.
-2. Beatriz Severo - descarte automático de sujeiras da caixa de área de gatos.
-3. Caroline Adam - Lixeira automática(sensor ultrassônico +  sevo motor.)
-4. Liv Miyoshi - Tapete faixa de led acionada por sensor.
-5. Luana Kiewel - 
-6. Victor Chamun - Luz de aquário com sensor.
-
+1. Alexandre Devit- [Alimentador com estoque e timer para ovelhas](https://github.com/ferkrum/protoEletro2021.2/wiki/Projeto-1:-Alimentador-para-Ovinos).
+2. Beatriz Severo - [Coçador para Pets Automático](https://github.com/ferkrum/protoEletro2021.2/wiki/Projeto-2:-Co%C3%A7ador-para-Pets-Autom%C3%A1tico).
+3. Caroline Adam - [Lixeira automática - Automatic Thrash](https://github.com/ferkrum/protoEletro2021.2/wiki/Projeto-3:-Lixeira-autom%C3%A1tica-Automatic-trash)
+4. Liv Miyoshi - [Tapete Iluminado](https://github.com/ferkrum/protoEletro2021.2/wiki/Projeto-4:-Tapete-iluminado).
+5. Luana Kiewel - [Automatic Water](https://github.com/ferkrum/protoEletro2021.2/wiki/Projeto-5:-Automatic-Water).
+6. Victor Chamun - [Aquarium Night Light](https://github.com/ferkrum/protoEletro2021.2/wiki/Projeto-6:-Aquarium-Night-Light).
 
 <br><br><br>
 _Acompanhe o desenvolvimento dos projetos [aqui](https://github.com/ferkrum/protoEletro2021.2/wiki)._
-
-
-
-
 
 
 _Obs: Para dicas de formatação Markdown, acessar esse [link](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open)._
